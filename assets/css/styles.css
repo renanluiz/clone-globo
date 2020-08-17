@@ -47,3 +47,38 @@ nav ul li:nth-child(4) a{ /* tech */
 nav ul li:nth-child(5) a{ /* vídeos */
     color: #0669de;
 }
+
+/* Navbar-footer */
+
+#nav-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 50px;
+    background: white;
+    padding: 10px 0;
+}
+
+#nav-footer ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav-footer ul li a{
+    font-size: 1.4em;
+    color: rgba(0, 0, 0, 0.322);
+}
+
+.active-nav-header{
+    color: #0669de;
+}
+
+main{
+    width: 92vw;
+    margin: 10px auto;
+}
+
+main h2{
+    color: #cd150c;
+    font-size: 2em;
+}
