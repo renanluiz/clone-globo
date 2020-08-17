@@ -1,0 +1,49 @@
+body{
+
+}
+
+#logo{
+    background: url('../img/logo.png') no-repeat center;
+    width: 100vw;
+    height: 50px;
+    background-size: 100px;
+    border-bottom: 1px var(--divisor) solid;
+}
+
+nav ul {
+    display: flex;
+    margin: 0 auto;
+    width: 90%;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    width: 100vw;
+    border-bottom: 1px var(--divisor) solid;
+    height: 40px;
+}
+
+nav ul li{
+    font-weight: bold;;
+}
+
+nav ul li:nth-child(1) a{ /* g1 */
+    color: #a80000;
+}
+
+nav ul li:nth-child(2) a{ /* ge */
+    color: #06aa48;
+}
+
+nav ul li:nth-child(3) a{ /* gshow */
+    color: #ff7f00;
+}
+
+nav ul li:nth-child(4) a{ /* tech */
+    color: #666666;
+}
+
+nav ul li:nth-child(5) a{ /* vídeos */
+    color: #0669de;
+}
