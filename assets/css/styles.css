@@ -75,10 +75,35 @@ nav ul li:nth-child(5) a{ /* vídeos */
 
 main{
     width: 92vw;
-    margin: 10px auto;
+    margin: 10px auto ;
 }
 
-main h2{
+.headline h2{
     color: #cd150c;
     font-size: 2em;
 }
+
+.headline ul{
+    display: flex;
+    flex-direction: column;
+    list-style-position: inside;
+    margin: 5% 5%;
+}
+
+.headline ul li {
+    list-style: disc;
+    font-size: 1em;
+    float: none;
+    color: rgba(0, 0, 0, 0.342);
+    font-weight: bold;
+    margin: 5px;
+}
+
+.headline ul li a{
+    color: #cd150c;
+}
+
+.headline{
+    border-bottom: 1px rgba(0, 0, 0, 0.178) solid;
+}
+
