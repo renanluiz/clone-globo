@@ -12,7 +12,7 @@
     An awesome project to practice my front-end skills 😁!
     <br />
     <br />
-    <a href="#">View Demo(Coming soon)</a>
+    <a href="http://tiny.cc/clone-globo-demo">View Demo</a>
     ·
     <a href="#contributing">Help improve my code</a>
         ·
