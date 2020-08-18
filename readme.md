@@ -40,7 +40,8 @@
 
 I´ve been studing HTML CSS and JS for about a year now and decided to post some exercises here so you can follow along my progress. 
 
-This was part of a challenge I did to myself so it is not the most polished version it can get and there´re probably a lot of improvements that can be done to the structure and of course the responsiveness (Work in progress)
+This was part of a challenge I did to myself, try to replicate the web interface from globo.com going mobile first.
+It is not the most polished version it can get and there´re probably a lot of improvements that can be done to the structure and of course the responsiveness (Work in progress)
 
 ### Built With
 This project was built using just HTML5 and CSS3.
